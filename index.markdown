@@ -4,7 +4,7 @@
 
 layout: home
 headline-sm: Mezinárodní konference
-headline: Spravedlivý proces<br/>mediální realita
+headline: Spravedlivý proces<br/> a mediální realita
 speeches: Proslovy
 lang: cz
 ---
