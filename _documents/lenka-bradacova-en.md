@@ -6,7 +6,7 @@ weight: 90
 thumb: /embed-baradacova.jpg
 author:
   name: Lenka Bradáčová
-  position: vrchní státní zástupkyně v&nbsp;Praze
+  position: High Public Prosecutor in Prague
 ---
 
 _“The right to&nbsp;inform the public, and the right of&nbsp;the public to&nbsp;be informed can get in&nbsp;conflict with equally important public and private interests which are protected by&nbsp;the ban on&nbsp;disclosing confidential information about criminal proceedings.”_
