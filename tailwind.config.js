@@ -34,6 +34,7 @@ module.exports = {
         },
       },
     },
+    fontThin: 100,
     fontFamily: {
       basic: ["Roboto", "sans-serif"],
       body: ["Times", "serif"],
