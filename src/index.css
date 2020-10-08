@@ -1,0 +1,23 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@import "./css/fonts.css";
+
+/* p,
+ol,
+h1,
+h2 {
+  margin-bottom: 1.5rem;
+}
+
+article ol {
+  list-style-type: decimal;
+  margin-left: 2em;
+} */
+
+/* article ol.lower-roman {
+  list-style-type: lower-roman;
+} */
