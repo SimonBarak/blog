@@ -3,7 +3,7 @@ layout: document
 lang: cz
 title:
 weight: 10
-thumb: /embed-samal.jpg
+thumb: /embed-zeman.jpg
 author:
   name: Pavel Zeman
   position: nejvyšší státní zástupce
