@@ -3,7 +3,7 @@ layout: document
 lang: en
 title:
 weight: 50
-thumb: /embed-sicilianos.jpg
+thumb: https://res.cloudinary.com/dhxmg9p4i/image/upload/v1602140544/nsz/embed-sicilianos.jpg
 author:
   name: Linos-Alexandre Sicilianos
   position: Chairman of&nbsp;the European Court of&nbsp;Human Rights

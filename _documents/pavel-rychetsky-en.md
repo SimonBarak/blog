@@ -3,7 +3,7 @@ layout: document
 lang: en
 title:
 weight: 20
-thumb: /embed-rychetsky.jpg
+thumb: https://res.cloudinary.com/dhxmg9p4i/image/upload/v1602140542/nsz/embed-rychetsky.jpg
 author:
   name: Pavel Rychetský
   position: Chairman of&nbsp;the Constitutional Court of&nbsp;the Czech Republic

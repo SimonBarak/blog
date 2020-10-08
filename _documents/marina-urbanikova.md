@@ -3,7 +3,7 @@ layout: document
 lang: cz
 title:
 weight: 100
-thumb: /embed-urbanikova.jpg
+thumb: https://res.cloudinary.com/dhxmg9p4i/image/upload/v1602140543/nsz/embed-urbanikova.jpg
 author:
   name: Marína Urbániková
   position: socioložka médií, Masarykova univerzita Brno
