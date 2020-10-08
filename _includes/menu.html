@@ -1,8 +1,9 @@
+<div class="mb-2 text-gray-600">{{page.speeches}}</div>
 {% assign documents=site.documents | where:"lang", page.lang %} {% assign
 sorteddocuments = documents | sort: 'weight' %}
 <ul>
-  {% for document in sorteddocuments %}
-  <li class="">
+  {% for document in sorteddocuments %} {% if page.weight != document.weight %}
+  <li>
     <a
       href="{{site.baseurl}}{{ document.url }}"
       class="block flex bg-white rounded shadow mb-3 px-3 py-3 hover:bg-gray-300"
@@ -35,5 +36,5 @@ sorteddocuments = documents | sort: 'weight' %}
       </div>
     </a>
   </li>
-  {% endfor %}
+  {% endif %} {% endfor %}
 </ul>

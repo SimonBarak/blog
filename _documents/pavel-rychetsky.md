@@ -15,7 +15,8 @@ Vaše eminence, vážený pane kardinále,<br/>
 Vážený pane nejvyšší státní zástupce,<br/>
 Vážení předsedové obou nejvyšších soudů,<br/>
 Vážené dámy, vážení pánové,<br/>
-Kolegyně a&nbsp;kolegové,<br/>
+Kolegyně a&nbsp;kolegové,
+
 rád bych úvodem pozdravil všechny přítomné. Nejen jménem svým, ale&nbsp;i jménem Ústavního soudu. Chci poděkovat za&nbsp;pozvání a&nbsp;za možnost promluvit v&nbsp;úvodu této významné mezinárodní konference. Zamýšlel jsem se&nbsp;proto celý uplynulý víkend nad tím, jak spolu korespondují spravedlivý proces a&nbsp;mediální realita. A&nbsp;musím upřímně říci, že uspokojivou odpověď jsem nenašel.
 
 ![Pavel Rychetsky](/blog/assets/img/rychetsky.jpeg)

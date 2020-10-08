@@ -45,7 +45,7 @@ Presumpce neviny je&nbsp;jedním ze&nbsp;základů spravedlivého procesu podle 
 
 Soud rozlišuje výroky, které vyjadřují názor, že dotyčná osoba je&nbsp;vinna, a&nbsp;výroky, které pouze popisují „stav podezření“. První výroky porušují presumpci neviny, kdežto druhé výroky nikoli.
 
-Ovšem článek 6 § 2&nbsp;nemůže bránit úřední moci informovat veřejnost o&nbsp;průběhu trestního řízení, ale&nbsp;vyžaduje, aby&nbsp;tak bylo činěno se&nbsp;_zdrženlivostí_ a&nbsp;_uvážlivostí \_tak_, _aby byla respektována presumpce neviny. Soud zdůrazňuje důležitost \_výběru slov_ při výrocích veřejných činitelů.
+Ovšem článek 6 § 2&nbsp;nemůže bránit úřední moci informovat veřejnost o&nbsp;průběhu trestního řízení, ale&nbsp;vyžaduje, aby&nbsp;tak bylo činěno se&nbsp;_zdrženlivostí_ a&nbsp;_uvážlivostí_ tak, aby byla respektována presumpce neviny. Soud zdůrazňuje důležitost _výběru slov_ při výrocích veřejných činitelů.
 
 Uvedu dva&nbsp;příklady soudního pojednání presumpce neviny.
 
@@ -69,9 +69,9 @@ Uvedu zde&nbsp;jeden příklad. V&nbsp;kauze _Craxi v. Italy_[^4] si&nbsp;obvin�
 
 Podle článku 10:
 
-“1.  Každý má právo na&nbsp;svobodu projevu. Toto právo zahrnuje svobodu zastávat názory a&nbsp;přijímat a&nbsp;rozšiřovat informace nebo myšlenky bez&nbsp;zasahování státních orgánů a&nbsp;bez ohledu na&nbsp;hranice. Tento článek nebrání státům, aby&nbsp;vyžadovaly udělování povolení rozhlasovým, televizním nebo filmovým společnostem.“
+_“1.  Každý má právo na&nbsp;svobodu projevu. Toto právo zahrnuje svobodu zastávat názory a&nbsp;přijímat a&nbsp;rozšiřovat informace nebo myšlenky bez&nbsp;zasahování státních orgánů a&nbsp;bez ohledu na&nbsp;hranice. Tento článek nebrání státům, aby&nbsp;vyžadovaly udělování povolení rozhlasovým, televizním nebo filmovým společnostem.“_
 
-Svoboda projevu zaručena článkem 10&nbsp;Úmluvy zahrnuje svobodu přijímat a&nbsp;rozšiřovat informace. Soud upozorňuje, že svoboda projevu je&nbsp;jedním z nejdůležitějších základů demokratické společnosti a&nbsp;že je&nbsp;obzvláště důležité zabezpečit ochranu tisku.[^5]
+Svoboda projevu zaručena článkem 10 Úmluvy zahrnuje svobodu přijímat a&nbsp;rozšiřovat informace. Soud upozorňuje, že svoboda projevu je&nbsp;jedním z nejdůležitějších základů demokratické společnosti a&nbsp;že je&nbsp;obzvláště důležité zabezpečit ochranu tisku.[^5]
 
 Nejenže mají média úlohu rozšiřovat takové informace a&nbsp;myšlenky: veřejnost má rovněž právo je&nbsp;obdržet. Je&nbsp;vskutku oprávněným zájmem veřejnosti být informována o&nbsp;probíhajícím trestním řízení a&nbsp;o fungování justice. Toto je&nbsp;ve veřejném zájmu.
 
