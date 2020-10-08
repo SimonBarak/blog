@@ -26,6 +26,7 @@
       {% endif %}
     </div>
     <div>
+      {% if page.layout != "home" %}
       <ul class="flex">
         {% assign documents=site.documents | where:"author.name",
         page.author.name | sort: 'lang' %} {% for document in documents %}
@@ -36,17 +37,25 @@
             >{{ document.lang }}</a
           >
         </li>
-        {% endfor %} {% assign pages=site.pages | where:"layout", page.layout |
-        sort: 'lang' %} {% for item in pages %}
+      </ul>
+      {% endif %} {% if page.layout == "home" %}
+      <ul class="flex">
         <li class="block ml-2">
           <a
-            href="{{site.baseurl}}{{ item.url }}"
-            class="block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300 {% if page.lang == item.lang %} bg-gray-400 {% endif %}"
-            >{{ item.lang }}</a
+            href="{{site.baseurl}}"
+            class="block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300 {% if page.lang == 'cz' %} bg-gray-400 {% endif %}"
+            >cz</a
           >
         </li>
-        {% endfor %}
+        <li class="block ml-2">
+          <a
+            href="{{site.baseurl}}en/"
+            class="block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300 {% if page.lang == 'en' %} bg-gray-400 {% endif %}"
+            >en</a
+          >
+        </li>
       </ul>
+      {% endif %}
     </div>
   </div>
 </header>
