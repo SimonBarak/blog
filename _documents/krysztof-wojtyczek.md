@@ -3,6 +3,7 @@ layout: document
 lang: cz
 title:
 weight: 70
+thumb: /embed-wojtyczek.jpg
 author:
   name: Krzysztof Wojtyczek
   position: soudce Evropského soudu pro lidská práva

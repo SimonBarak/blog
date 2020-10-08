@@ -3,6 +3,7 @@ layout: document
 lang: cz
 title:
 weight: 60
+thumb: /embed-pejchal.jpg
 author:
   name: Aleš Pejchal
   position: soudce Evropského soudu pro lidská práva

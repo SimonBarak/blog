@@ -3,6 +3,7 @@ layout: document
 lang: cz
 title:
 weight: 20
+thumb: /embed-rychetsky.jpg
 author:
   name: Pavel Rychetský
   position: předseda Ústavního soudu ČR

@@ -3,6 +3,7 @@ layout: document
 lang: en
 title:
 weight: 10
+thumb: /embed-zeman.jpg
 author:
   name: Pavel Zeman
   position: Prosecutor General of the Czech Republic

@@ -3,6 +3,7 @@ layout: document
 lang: cz
 title:
 weight: 50
+thumb: /embed-sicilianos.jpg
 author:
   name: Linos-Alexandre Sicilianos
   position: předseda Evropského soudu pro&nbsp;lidská práva

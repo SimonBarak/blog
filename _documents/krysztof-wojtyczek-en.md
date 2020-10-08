@@ -3,6 +3,7 @@ layout: document
 lang: en
 title:
 weight: 70
+thumb: /embed-wojtyczek.jpg
 author:
   name: Krzysztof Wojtyczek
   position: Judge of the European Court of Human Rights

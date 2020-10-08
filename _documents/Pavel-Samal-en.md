@@ -3,6 +3,7 @@ layout: document
 lang: en
 title:
 weight: 30
+thumb: /embed-samal.jpg
 author:
   name: Pavel Šámal
   position: Chairman of&nbsp;the Supreme Court

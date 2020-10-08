@@ -3,6 +3,7 @@ layout: document
 lang: cz
 title:
 weight: 40
+thumb: /embed-schillerova.jpg
 author:
   name: Alena Schillerová
   position: místopředsedkyně vlády, ministryně financí

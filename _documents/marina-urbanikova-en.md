@@ -3,6 +3,7 @@ layout: document
 lang: en
 title:
 weight: 100
+thumb: /embed-urbanikova.jpg
 author:
   name: Marína Urbániková
   position: Media Sociologist, Masaryk Univerzity Brno
