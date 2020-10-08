@@ -109,7 +109,7 @@ Pan Colm Keena má 59&nbsp;let a&nbsp;je stále novinářem a&nbsp;stále v&nbsp
 
 Paní Geraldine Kennedy je&nbsp;stejně stará jako pan Ahern. Novinářkou v&nbsp;The Irish Times již není. V&nbsp;srpnu 2012 byla jmenována docentkou žurnalistiky na&nbsp;Universitě v&nbsp;Limerick. Získala celkem pět čestných doktorátů z&nbsp;irských univerzit.
 
-Panu Alanu Mahonovi je&nbsp;rovněž 68&nbsp;let. Po&nbsp;čtyřletém působení na&nbsp;postu soudce na&nbsp;odvolacím soudě jej irská vláda v&nbsp;roce 2018 navrhla na&nbsp;pozici ombudsmana pro obranné síly. Funkce se&nbsp;ujal 6. července 2018 na&nbsp;funkční období tří let.
+Panu Alanu Mahonovi je&nbsp;rovněž 68&nbsp;let. Po&nbsp;čtyřletém působení na&nbsp;postu soudce na&nbsp;odvolacím soudě jej irská vláda v&nbsp;roce 2018 navrhla na&nbsp;pozici ombudsmana pro obranné síly. Funkce se&nbsp;ujal 6.&nbsp;července 2018 na&nbsp;funkční období tří let.
 
 A&nbsp;irská komunita? Asi se&nbsp;shodneme, že&nbsp;období keltského tygra je&nbsp;už jen historií.
 
