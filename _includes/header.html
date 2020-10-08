@@ -3,7 +3,7 @@
     <div class="flex-grow">
       {% if page.layout != "home" %}
       <a
-        class="inline-block pb-2 pt-3 px-4 rounded-lg shadow uppercase bg-white hover:bg-gray-300"
+        class="inline-block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300"
         href="{{site.baseurl}}/{% if page.lang == 'en' %}en{% endif %}"
       >
         <?xml version="1.0" ?><!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
@@ -28,11 +28,11 @@
     <div>
       {% if page.layout != "home" %}
       <button
-        class="block pb-2 pt-3 px-4 mr-2 rounded-lg shadow uppercase bg-white hover:bg-gray-300"
+        class="block py-2 px-3 mr-2 rounded-lg shadow uppercase bg-white hover:bg-gray-300"
         onclick="window.print()"
       >
         {% if page.lang == 'en' %} Print {% endif %} {% if page.lang == 'cz' %}
-        Tisk {% endif %}
+        Tisknout {% endif %}
       </button>
       {% endif %}
     </div>
@@ -44,7 +44,7 @@
         <li class="block ml-2">
           <a
             href="{{site.baseurl}}{{ document.url }}"
-            class="block pb-2 pt-3 px-4 rounded-lg shadow uppercase bg-white hover:bg-gray-300 {% if page.lang == document.lang %} bg-gray-400 {% endif %}"
+            class="block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300 {% if page.lang == document.lang %} bg-gray-400 {% endif %}"
             >{{ document.lang }}</a
           >
         </li>
@@ -55,14 +55,14 @@
         <li class="block ml-2">
           <a
             href="{{site.baseurl}}/"
-            class="block pb-2 pt-3 px-4 rounded-lg shadow uppercase bg-white hover:bg-gray-300 {% if page.lang == 'cz' %} bg-gray-400 {% endif %}"
+            class="block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300 {% if page.lang == 'cz' %} bg-gray-400 {% endif %}"
             >cz</a
           >
         </li>
         <li class="block ml-2">
           <a
             href="{{site.baseurl}}/en/"
-            class="block pb-2 pt-3 px-4 rounded-lg shadow uppercase bg-white hover:bg-gray-300 {% if page.lang == 'en' %} bg-gray-400 {% endif %}"
+            class="block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300 {% if page.lang == 'en' %} bg-gray-400 {% endif %}"
             >en</a
           >
         </li>
