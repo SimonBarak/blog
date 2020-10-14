@@ -18,7 +18,7 @@ vážené kolegyně a&nbsp;kolegové,
 
 dovolte, abych přivítal Vás i&nbsp;řadu dalších vzácných hostů – představitelů justice, veřejné správy, akademické obce i&nbsp;médií na&nbsp;dnešní konferenci, pořádané společně Evropským soudem pro lidská práva a&nbsp;Nejvyšším státním zastupitelstvím, na&nbsp;téma Spravedlivý proces a&nbsp;mediální realita.
 
-![Pavel Zeman](/blog/assets/img/zeman.jpeg)
+![Pavel Zeman](/blog/assets/img/zeman.jpg)
 
 Česká a&nbsp;slovenská federativní republika přistoupila k&nbsp;Úmluvě o&nbsp;ochraně lidských práv a&nbsp;základních svobod dne 21. února 1991, přičemž od&nbsp;18. března 1992 je&nbsp;Úmluvou vázána. Ale rád bych se&nbsp;vrátil na&nbsp;časové ose ještě o&nbsp;několik let dřív. Jakkoliv to&nbsp;nebylo dopředu avizováno, tak tato konference je&nbsp;pořádána rovněž na&nbsp;počest 30. výročí listopadových událostí roku 1989. Postupujeme-li totiž chronologicky a&nbsp;kauzálně, pak nelze nevidět, že bez listopadu 1989 bychom neměli ani svobodu slova, ani nezávislou veřejnou žalobu, zcela zřejmě bychom nebyli ani signatáři Úmluvy o&nbsp;ochraně lidských práv a&nbsp;svobod a&nbsp;na Evropský soud pro ochranu lidských práv bychom se&nbsp;dívali jako na&nbsp;něco exotického a&nbsp;nám velmi vzdáleného.
 

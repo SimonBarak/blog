@@ -19,7 +19,7 @@ Dear Colleagues,<br/>
 
 On&nbsp;behalf of&nbsp;the Constitutional Court I&nbsp;would first like to&nbsp;welcome all participants. I&nbsp;want to&nbsp;thank the organizers for the invitation and for the opportunity to&nbsp;address this important international conference. Over the past weekend, I&nbsp;was thinking about how fair trial and the media correspond with each other. And I&nbsp;must be&nbsp;frank to&nbsp;say that I&nbsp;have not found any satisfactory answer.
 
-![Pavel Rychetsky](/blog/assets/img/rychetsky.jpeg)
+![Pavel Rychetsky](/blog/assets/img/rychetsky.jpg)
 
 The reason may be&nbsp;that we&nbsp;live in&nbsp;times of&nbsp;information inflation or&nbsp;obesity.
 

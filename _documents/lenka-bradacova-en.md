@@ -13,7 +13,7 @@ _“The right to&nbsp;inform the public, and the right of&nbsp;the public to&nbs
 
 _“The authority and impartiality of&nbsp;the judicial power, the effective prosecution of&nbsp;criminal acts, and the right of&nbsp;the accused to&nbsp;presumption of&nbsp;innocence and protection of&nbsp;his private life, are the values we&nbsp;should respect. “_
 
-![Lenka Bradáčová](/blog/assets/img/bradacova.jpeg)
+![Lenka Bradáčová](/blog/assets/img/bradacova.jpg)
 
 Let me&nbsp;first stress that I&nbsp;consider it&nbsp;appropriate to&nbsp;set the limits and ways of&nbsp;public prosecution communication with public media officials as&nbsp;well as&nbsp;the constitutional basis and related legal limits.
 

@@ -11,7 +11,7 @@ author:
 
 _Vztah médií a&nbsp;justice, zejména ty trestní, místy balancuje na pomezí lásky a&nbsp;nenávisti. Vzájemně se sice potřebují, ale zároveň se obviňují z přílišného tajnůstkaření, nesrozumitelnosti a&nbsp;vágnosti (na straně justice) nebo naopak povrchnosti, přílišného zjednodušování a&nbsp;nepřesnosti (na straně médií). Proč je ale důležité, aby tento vztah fungoval, a&nbsp;jaká specifika má pro obě strany informování o&nbsp;trestních řízeních?_
 
-![Marína Urbániková](/blog/assets/img/urbanikova.jpeg)
+![Marína Urbániková](/blog/assets/img/urbanikova.jpg)
 
 Média a&nbsp;justice by navzdory občasným střetům rozhodně neměly být nepřáteli, a&nbsp;to zejména kvůli tomu, že jejich hladká spolupráce je v zájmu celé společnosti. Veřejnost chce, a&nbsp;také by měla být, o&nbsp;významných soudních sporech a&nbsp;obecně o&nbsp;dění v justici informována. Obrazně řečeno, jelikož ale mají soudní síně omezenou kapacitu, hlavním zprostředkovatelem mezi právním systémem a&nbsp;společností jsou právě média. Cílem tohoto příspěvku je shrnout, proč je důležité o&nbsp;dění v justici informovat (kap. 1), popsat vybrané mechanizmy fungování médií (kap. 2) a&nbsp;postoje a&nbsp;očekávání veřejnosti od justice (kap. 3), následně poukázat na vybrané problémy informování o&nbsp;trestních řízeních na straně médií (kap. 4), a&nbsp;na základě tohoto kontextu formulovat některé doporučení pro zástupce a&nbsp;zástupkyně justice (kap. 5).
 

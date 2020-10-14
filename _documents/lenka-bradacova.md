@@ -13,7 +13,7 @@ _„Právo informovat veřejnost a&nbsp;právo veřejností být informována se
 
 _„Autorita a&nbsp;nestrannost soudní moci, účinné vyšetřování trestných činů a&nbsp;právo obviněného na&nbsp;presumpci neviny a&nbsp;ochranu jeho soukromého života, jsou zájmy nikoli nižší hodnoty.“_
 
-![Lenka Bradáčová](/blog/assets/img/bradacova.jpeg)
+![Lenka Bradáčová](/blog/assets/img/bradacova.jpg)
 
 V samotném úvodu považuji za&nbsp;vhodné vymezit hranice a&nbsp;způsoby komunikace veřejné žaloby s&nbsp;představiteli veřejných sdělovacích prostředků, jakož i&nbsp;ústavní východiska a&nbsp;na&nbsp;ně navazující zákonné limity.
 

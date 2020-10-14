@@ -17,7 +17,7 @@ ctění přednášející a&nbsp;hosté,<br/>
 
 je&nbsp;pro mě velkým potěšením, že mohu zahájit tuto konferenci o&nbsp;zárukách spravedlivého procesu a&nbsp;médiích. Jménem svým a&nbsp;mých kolegů soudců Wojtyczeka a&nbsp;Pejchala bych rád poděkoval našim hostitelům, především nejvyššímu státnímu zástupci Zemanovi, za&nbsp;laskavé pozvání k setkání v Praze.
 
-![Linos-Alexandre Sicilianos](/blog/assets/img/sicilianos-1.jpeg)
+![Linos-Alexandre Sicilianos](/blog/assets/img/sicilianos-1.jpg)
 
 Vybrali jste neobyčejně zajímavé téma pro&nbsp;dnešní diskusi, tedy vztah mezi zárukami spravedlivého procesu a&nbsp;médii.
 

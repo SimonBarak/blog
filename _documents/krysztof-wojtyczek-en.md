@@ -11,7 +11,7 @@ author:
 
 The European Convention on Human Rights (ECHR) protects the freedom of expression but at the same time permits restrictions of this freedom provided that fulfill certain criteria. It raises the question of precise criteria which determine the scope of permissible restrictions. The present paper aims at presenting briefly the case law of the European Court of Human Rights (ECtHR) concerning the limitations upon limitations (in German: _Schranken-Schranken_[^1]) of the freedom of expression.
 
-![Krzysztof Wojtyczek](/blog/assets/img/wojtyczek.jpeg)
+![Krzysztof Wojtyczek](/blog/assets/img/wojtyczek.jpg)
 
 1.  One has to note first that the most important limitations upon limitations of freedom of expression are set forth in Article 10 of the Convention. This provision has to be placed, however, in the wider context of other provisions setting limitations upon limitations of rights.
 

@@ -11,7 +11,7 @@ author:
 
 _The relationship between the media and the justice, especially the criminal justice, balances on a thin line between love and hatred. They need each other but at the same time they blame each other of too much secrecy, unintelligibility, and vagueness (on the part of the justice), or of superficiality, simplification, and inaccuracy (on the part of the media). But why is it important for this relationship to function, and what specifics information about criminal proceedings has for both parties?_
 
-![Marína Urbániková](/blog/assets/img/urbanikova.jpeg)
+![Marína Urbániková](/blog/assets/img/urbanikova.jpg)
 
 The media and the justice should not by any means be enemies, despite occasional clashes, especially because their smooth cooperation is in the interest of the whole society. The general public wants to be informed, and it should be informed, about significant trials and about what is going on in the justice system in general. Metaphorically speaking, because the court rooms have a limited capacity, the main mediator between the legal system and society is the media. The aim of my presentation is to sum up why it is important to speak about the processes in the justice system (Chapter 1), describe selected mechanisms of media operations (Chapter2), and the public position and expectations of the justice system (Chapter 3), then to point out selected problems of information about criminal proceedings by the media (Chapter4), and based on that context to formulate some recommendations for judicial officials (Chapter5).
 
