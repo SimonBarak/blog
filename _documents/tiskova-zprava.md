@@ -3,7 +3,7 @@ layout: document
 lang: cz
 title: Mezinárodní konference NSZ se zaměřila na vztah justice a&nbsp;médií
 weight: 200
-thumb: /v1602140545/nsz/embed-zeman.jpg
+thumb: /v1603199935/nsz/embed-tiskova-zprava.jpg
 author:
   name: Tisková zpráva
   position:
