@@ -3,7 +3,7 @@ layout: document
 lang: cz
 title:
 weight: 30
-thumb: https://res.cloudinary.com/dhxmg9p4i/image/upload/v1602140543/nsz/embed-samal.jpg
+thumb: /v1602140543/nsz/embed-samal.jpg
 author:
   name: Pavel Šámal
   position: předseda Nejvyššího soudu

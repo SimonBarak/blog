@@ -3,7 +3,7 @@ layout: document
 lang: en
 title:
 weight: 60
-thumb: https://res.cloudinary.com/dhxmg9p4i/image/upload/v1602140541/nsz/embed-pajchal.jpg
+thumb: /v1602140541/nsz/embed-pajchal.jpg
 author:
   name: Aleš Pejchal
   position: judge of&nbsp;the European Court of&nbsp;Human Rights

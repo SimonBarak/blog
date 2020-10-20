@@ -3,7 +3,7 @@ layout: document
 lang: en
 title:
 weight: 40
-thumb: https://res.cloudinary.com/dhxmg9p4i/image/upload/v1602140542/nsz/embed-schillerova.jpg
+thumb: /v1602140542/nsz/embed-schillerova.jpg
 author:
   name: Alena Schillerová
   position: Deputy Prime Minister, Minister of&nbsp;Finance

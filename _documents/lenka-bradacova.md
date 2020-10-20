@@ -3,7 +3,7 @@ layout: document
 lang: cz
 title:
 weight: 90
-thumb: https://res.cloudinary.com/dhxmg9p4i/image/upload/v1602140543/nsz/embed-bradacova.jpg
+thumb: /v1602140543/nsz/embed-bradacova.jpg
 author:
   name: Lenka Bradáčová
   position: vrchní státní zástupkyně v&nbsp;Praze
