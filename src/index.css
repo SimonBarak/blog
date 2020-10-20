@@ -6,13 +6,16 @@
 
 @import "./css/fonts.css";
 
+body {
+  background-color: rgb(30, 0, 40);
+}
 .footnotes > ol > li > p {
   text-align: left;
 }
 
 /* add some padding to force scrollbars */
 .parallax__layer {
-  padding: 100vh 0;
+  padding: 130vh 0;
 }
 
 /* centre the content in the parallax layers */
@@ -20,8 +23,8 @@
   height: 100vh;
   overflow-x: hidden;
   overflow-y: auto;
-  -webkit-perspective: 1px;
-  perspective: 1px;
+  -webkit-perspective: 2px;
+  perspective: 2px;
 }
 
 .parallax__layer {
@@ -38,9 +41,9 @@
 }
 
 .parallax__layer--back {
-  -webkit-transform: translateZ(-1px) scale(2);
-  transform: translateZ(-1px) scale(2);
-  background-image: url("https://res.cloudinary.com/dhxmg9p4i/image/upload/v1602681052/blog/background-two.jpg");
+  -webkit-transform: translateZ(-2px) scale(2);
+  transform: translateZ(-2px) scale(2);
+  background-image: url("/blog/assets/img/backgorund.jpg");
   background-size: cover;
 }
 

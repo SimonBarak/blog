@@ -13,4 +13,4 @@ Mezinárodní odborná konference Spravedlivý proces a&nbsp;mediální realita 
 
 Nejvyšší státní zastupitelství připravilo tento e-sborník s&nbsp;jednotlivými příspěvky, které zazněly na&nbsp;konferenci. Děkujeme všem autorům za&nbsp;účast na&nbsp;konferenci, podnětné příspěvky i&nbsp;za spolupráci na&nbsp;přípravě písemné podoby sborníku
 
-Podrobněji o konferenci v <a alt="tispová zpráva" href="text-blue-200">tiskové zprávě</a>.
+Podrobněji o konferenci v <a alt="tisková zpráva" class="text-blue-200">tiskové zprávě</a>.

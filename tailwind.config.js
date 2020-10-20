@@ -31,6 +31,9 @@ module.exports = {
           p: {
             textAlign: "left",
           },
+          a: {
+            color: "#7979ff"
+          },
         },
       },
     },

@@ -639,7 +639,7 @@ video {
 }
 
 .prose a {
-  color: #1a202c;
+  color: #7979ff;
   text-decoration: underline;
 }
 
@@ -20049,6 +20049,10 @@ video {
   animation: bounce 1s infinite;
 }
 
+body {
+  background-color: rgb(30, 0, 40);
+}
+
 .footnotes > ol > li > p {
   text-align: left;
 }
@@ -20056,7 +20060,7 @@ video {
 /* add some padding to force scrollbars */
 
 .parallax__layer {
-  padding: 100vh 0;
+  padding: 130vh 0;
 }
 
 /* centre the content in the parallax layers */
@@ -20065,8 +20069,8 @@ video {
   height: 100vh;
   overflow-x: hidden;
   overflow-y: auto;
-  -webkit-perspective: 1px;
-  perspective: 1px;
+  -webkit-perspective: 2px;
+  perspective: 2px;
 }
 
 .parallax__layer {
@@ -20083,9 +20087,9 @@ video {
 }
 
 .parallax__layer--back {
-  -webkit-transform: translateZ(-1px) scale(2);
-  transform: translateZ(-1px) scale(2);
-  background-image: url("https://res.cloudinary.com/dhxmg9p4i/image/upload/v1602681052/blog/background-two.jpg");
+  -webkit-transform: translateZ(-2px) scale(2);
+  transform: translateZ(-2px) scale(2);
+  background-image: url("/blog/assets/img/backgorund.jpg");
   background-size: cover;
 }
 
@@ -20152,7 +20156,7 @@ article ol {
   }
 
   .sm\:prose a {
-    color: #1a202c;
+    color: #7979ff;
     text-decoration: underline;
   }
 
@@ -39579,7 +39583,7 @@ article ol {
   }
 
   .md\:prose a {
-    color: #1a202c;
+    color: #7979ff;
     text-decoration: underline;
   }
 
@@ -59006,7 +59010,7 @@ article ol {
   }
 
   .lg\:prose a {
-    color: #1a202c;
+    color: #7979ff;
     text-decoration: underline;
   }
 
@@ -78433,7 +78437,7 @@ article ol {
   }
 
   .xl\:prose a {
-    color: #1a202c;
+    color: #7979ff;
     text-decoration: underline;
   }
 
