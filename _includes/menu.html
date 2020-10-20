@@ -2,11 +2,11 @@
 {% assign documents=site.documents | where:"lang", page.lang %} {% assign
 sorteddocuments = documents | sort: 'weight' %}
 <ul>
-  {% for document in sorteddocuments %} {% if page.weight != document.weight %}
+  {% for document in sorteddocuments %} 
   <li>
     <a
       href="{{site.baseurl}}{{ document.url }}"
-      class="block flex bg-white rounded shadow mb-3 px-3 py-3 hover:bg-gray-300"
+      class="bg-white  {% if page.weight == document.weight %}bg-gray-500{% endif %}  block flex rounded shadow mb-3 px-3 py-3 hover:bg-gray-300"
     >
       <div class="flex-grow">
         <div class="text-2xl">{{ document.author.name }}</div>
@@ -36,5 +36,5 @@ sorteddocuments = documents | sort: 'weight' %}
       </div>
     </a>
   </li>
-  {% endif %} {% endfor %}
+  {% endfor %}
 </ul>

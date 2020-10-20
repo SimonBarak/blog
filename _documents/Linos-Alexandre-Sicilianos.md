@@ -107,9 +107,9 @@ Dámy a&nbsp;pánové, rád bych ještě jednou poděkoval za&nbsp;příležitos
 
 ## Notes
 
-[^1]: https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=09000016805df617
-[^2]: č. 308 10. února 1995, § 41, Série A
-[^3]: č. 48297/99, § 49, ECHR 2002-II (výňatky)
-[^4]: _(č. 2)_ (č. 25337/94, § 73, 17.července 2003)
+[^1]: [search.coe.int](https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=09000016805df617)
+[^2]: _10. února 1995, § 41, Série A č. 308_
+[^3]: Č. 48297/99, § 49, ECHR 2002-II (výňatky)
+[^4]: (č. 2)(č. 25337/94, § 73, 17. července 2003)
 [^5]: _Jersild v. Denmark_, 23. září 1994, § 31, Série A č. 298
-[^6]: č. 26238/10, 11. prosince 2018
+[^6]: Č. 26238/10, 11. prosince 2018

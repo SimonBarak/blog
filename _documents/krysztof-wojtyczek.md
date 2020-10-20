@@ -153,42 +153,38 @@ Evropská úmluva o&nbsp;lidských právech (EULP) chrání svobodu slova, ale z
 
 ## Notes
 
-[^1]: Zde viz např. B. Pieroth, B. Schlinck, _Grundrechte, Staatsrecht II_, C.F. Müller, Heidelberg 1995, str.p. 73-82.
-[^2]: Viz rozhodnutí ESLP zCtHR 24. června 2003, Garaudy v. France, 65831/01.
-[^3]: Srovnej rozhodnutí z 16. listopadu 2004, Norwood, 23131/03.
-[^4]: Viz rozsudek z&nbsp; 28. listopadu 2017, Merabishvili v. Georgia, 72508/13, par. 264-317.
-[^5]:
-    Viz např.: A. Bleckmann, _Staatsrecht II - Die Grundrechte_, Carl Heymanns, Köln 1997, str.p. 323 ff.;
-
-    B. Pieroth, B. Schlinck, op. cit., str.p. 3-5.
-
-[^6]: Rozsudek z 23. června 2016, Baka v. Hungary, 20261/12 a&nbsp;disentní názor souidce Wojtyczeka přiložený k&nbsp;tomuto rozsudku; rozsudek z 8. listopad 2016, Szanyi v. Hungary, 35493/13 a&nbsp;disentní názor soudce Wojtyczeka přiložený k&nbsp;tomuto rozsudku.
-[^7]: Viz např. rozsudek z&nbsp;20. října October 2009, Lombardi Vallauri v. Italy, 39128/05.
+[^1]: Zde viz např.: B. Pieroth, B. Schlinck, _Grundrechte, Staatsrecht II_, C.F. Müller, Heidelberg 1995, str. 73-82.
+[^2]: Viz rozhodnutí ESLP z 24. června 2003, Garaudy v. France, 65831/01.
+[^3]: Srovnej rozhodnutí z 16. listopadu 2004, Norwood v the United Kingdom 23131/03.
+[^4]: Viz rozsudek z 28. listopadu 2017, Merabishvili v. Georgia, 72508/13, par. 264-317.
+[^5]: Viz např.: A. Bleckmann, _Staatsrecht II - Die Grundrechte_, Carl Heymanns, Köln 1997, str. 323 ff.; B. Pieroth, B. Schlinck, op. cit., str.p. 3-5.
+[^6]: Rozsudek z 23. června 2016, Baka v. Hungary, 20261/12 a&nbsp;disentní názor soudce Wojtyczeka přiložený k&nbsp;tomuto rozsudku; rozsudek z 8. listopad 2016, Szanyi v. Hungary, 35493/13 a&nbsp;disentní názor soudce Wojtyczeka přiložený k&nbsp;tomuto rozsudku.
+[^7]: Viz např. rozsudek z&nbsp;20. října 2009, Lombardi Vallauri v. Italy, 39128/05.
 [^8]: Rozsudek z 29. března 2006, Scordino v. Italy (č.No. 1), 36813/97, par. 178-180.
 [^9]: Rozsudek z 10. listopadu 2015, Couderc and Hachette Filipacchi Associés v. France, 40454/07, par. 91.
 [^10]: Rozsudek z , 20. března 2018, Radomilja and others v. Croatia, 37685/10 and 22768, par. 149.
 [^11]: Rozsudek z 21. března 2002, Nikula v. Finland, 31611/96.
 [^12]: Rozsudek z 17. května 2016, Karácsony and others v. Hungary, 42461/13 and 44357/13.
 [^13]: Rozsudek z 22. dubna 2013, Animal Defenders International v. The United Kingdom, 48876/08.
-[^14]: Viz např. : N. Emiliou, _The Principle of Proportionality in European Law. A&nbsp;Comparative Study_, Kluwer Law International, London 1996, str.p. 23-66; A. Bleckamann, op. cit., str.p. 368-380.
-[^15]: O&nbsp;pojmu racionality v&nbsp;právu podrobně pojednáváThe notion of rationality in law is discussed extensively by J. Wróblewski, _The Judicial Application of Law_, Springer-Science+Bisiness Media, s.l. 1992, strp. 209 ff.; o&nbsp;vztahu mezi racionalitou a&nbsp;proporcionalitou vizupon the articulation between rationality and proportionality P. Niels, \_Verhältnismässigkeit als Rationalitätskontrolle, \_Mohr Siebeck, Tübingen 2015.
-[^16]: Viz např. Rozsudek z&nbsp; 29.října 1992, Open Door and Dublin Well Woman v. Ireland, 14234/88; 14235/88, par. 77,
-[^17]: Viz např. Rozsudek z&nbsp; 18. dubna April 2013, Saint-Paul Luxembourg S.A. v. Luxembourg, 26419/10, par. 44.
-[^18]: Viz např. rozsudek z&nbsp; 16. července July 2009, Feret v. Belgium, 15615/07.
-[^19]: Rozsudek z&nbsp; of 20. října October 2015, Pentikäinen v. Finland, 11882/10.
-[^20]: Srovnej mj. rozsudek z&nbsp;Compare i.a. the 13. listopadu 2003 Scharsach and News Verlagsgesellschaft mBH v. Austria, 39394/98: _31. Vzhledem k&nbsp;specifickým okolnostem případu posoudí Soud tyto náležitosti:Turning to the particular circumstances of the case, the Court will assess the following elements: (a) povahu zásahuthe nature of the interference; (b) postoj navrhovatelů a&nbsp;paníthe position of the applicants and that of Mrs Rosenkranzové, která podala žalobuwho instituted the proceedings; (c) předmět článkuthe subject matter of the article; and (d) důvody národních soudůthe reasons given by the national courts._
-[^21]: Rozsudek z of 7. února February 2012, Von Hannover v. Germany (No. 2), 40660/08 and 60641/08, par. 108-123.
-[^22]: Rozsudek z of 22. dubna April 2013, Animal Defenders International v. The United Kingdom. , zmíněno výšeabove-mentioned.
-[^23]: Rozsudek z of 17. května May 2016, Karácsony and Others v. Hungary, 42461/13 and 44357/13.
+[^14]: Viz např.: N. Emiliou, _The Principle of Proportionality in European Law. A&nbsp;Comparative Study_, Kluwer Law International, London 1996, str.p. 23-66; A. Bleckamann, op. cit., str.p. 368-380.
+[^15]: O pojmu racionality v&nbsp;právu podrobně pojednává J. Wróblewski, _The Judicial Application of Law_, Springer-Science+Bisiness Media, .l. 1992, str. 209 ff.; o&nbsp;vztahu mezi racionalitou a&nbsp;proporcionalitou viz P. Niels, _Verhältnismässigkeit als Rationalitätskontrolle_, Mohr Siebeck, Tübingen 2015.
+[^16]: Viz např. Rozsudek z 29. října 1992, Open Door and Dublin Well Woman v. Ireland, 14234/88; 14235/88, par. 77,
+[^17]: Viz např. Rozsudek z 18. dubna 2013, Saint-Paul Luxembourg S.A. v. Luxembourg, 26419/10, par. 44.
+[^18]: Viz např. rozsudek z 16. července 2009, Feret v. Belgium, 15615/07.
+[^19]: Rozsudek z 20. října 2015, Pentikäinen v. Finland, 11882/10.
+[^20]: Srovnej mj. rozsudek z 13. listopadu 2003 Scharsach and News Verlagsgesellschaft mBH v. Austria, 39394/98: _31. Vzhledem k specifickým okolnostem případu posoudí Soud tyto náležitosti: (a) povahu zásahu (b) postoj navrhovatelů a paní Rosenkranzové, která podala žalobu (c) předmět článku (d) důvody národních soudů_
+[^21]: Rozsudek z 7. února 2012, Von Hannover v. Germany (No. 2), 40660/08 a 60641/08, par. 108-123.
+[^22]: Rozsudek z 22. dubna 2013, Animal Defenders International v. The United Kingdom, zmíněno výše.
+[^23]: Rozsudek z 17. května 2016, Karácsony and Others v. Hungary, 42461/13 a 44357/13.
 [^24]: Viz např. rozsudek Thoma v. Luxembourg, 38432/97, par. 64.
-[^25]: Viz např. Rozsudek z 5. října October 2017, Becker v. Norway, 21272/12.
-[^26]: Rozsudkys: 11. července July 2002, Christine Goodwin v. The United Kingdom, č.no. 28957/95, par. 99 aand 101; of 15. března 2018, Naït-Liman v. Switzerland 51357/07, par. 114.
-[^27]: Viz např. A. Leisner-Egensperger, "Wesensgehaltgarantie" in _Handbuch der Grundrechten_. \_Deutschland und Europa, \_Band III_Grundrechte in Deutschland. Allgemeine Lehren II\_, D. Merten, H.-J. Papier (eds.), Heidelberg, C.F. Muller, 2009.
-[^28]: Viz odlišný názor soudce the separate opinion of judge Wojtyczeka ořipojený k&nbsp;rozsudku v&nbsp;případu appended the in the case of Naït-Liman v. Switzerland, zmíněno výšementioned above, par. 8.
+[^25]: Viz např. Rozsudek z 5. října 2017, Becker v. Norway, 21272/12.
+[^26]: Rozsudky: 11. července 2002, Christine Goodwin v. The United Kingdom, č.no. 28957/95, par. 99 a 101; 15. března 2018, Naït-Liman v. Switzerland 51357/07, par. 114.
+[^27]: Viz např. A. Leisner-Egensperger, "Wesensgehaltgarantie" in _Handbuch der Grundrechten_. _Deutschland und Europa_ , Band III _Grundrechte in Deutschland_. Allgemeine Lehren II, D. Merten, H.-J. Papier (eds.), Heidelberg, C.F. Muller, 2009.
+[^28]: Viz odlišný názor soudce Wojtyczeka připojený k&nbsp;rozsudku v&nbsp;případu Naït-Liman v. Switzerland, zmíněno výše, par. 8.
 [^29]: Viz např. Rozsudek z 14. června 2016, Biržietis v. Lithuania, 49304/09, par. 57.
-[^30]: Ibidem.
-[^31]: Viz disentní názor soudce the dissenting opinion of judge Wojtyczeka připojený k&nbsp;výše zmíněnému rozsudku v&nbsp;případu appended the above-mentioned in the case of Biržietis v. Lithuania, par. 2.
+[^30]: Ibidem, par.
+[^31]: Viz disentní názor soudce Wojtyczeka připojený k&nbsp;výše zmíněnému rozsudku v&nbsp;případu Biržietis v. Lithuania, par. 2.
 [^32]: Ibidem, par.
-[^33]: Viz např. Rozsudek z 25. ledna January 2005, Karademirci and Others v. Turkey, 37096/97 and 37101/97.
-[^34]: Viz např. Rozsudek z&nbsp; 8&nbsp;. červenceJuly 1999, Sürek and Özdemir v. Turkey, 23927/94 and 24277/94.
+[^33]: Viz např. Rozsudek z 25. ledna 2005, Karademirci and Others v. Turkey, 37096/97 a 37101/97.
+[^34]: Viz např. Rozsudek z 8. července 1999, Sürek and Özdemir v. Turkey, 23927/94 a 24277/94.
 [^35]: Viz např. Rozsudek z 4. listopadu 2014, Braun v. Poland, 30162/10.

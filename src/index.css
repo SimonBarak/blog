@@ -6,6 +6,10 @@
 
 @import "./css/fonts.css";
 
+.footnotes > ol > li > p {
+  text-align: left;
+}
+
 /* add some padding to force scrollbars */
 .parallax__layer {
   padding: 100vh 0;

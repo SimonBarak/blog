@@ -109,9 +109,9 @@ Ladies and Gentlemen, I&nbsp;would like to&nbsp;extend my&nbsp;thanks once again
 
 ## Notes
 
-[^1]: https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=09000016805df617
-[^2]: 10&nbsp;February 1995, § 41, Series A&nbsp;no. 308
+[^1]: [search.coe.int](https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=09000016805df617)
+[^2]: 10 February 1995, § 41, Series A no. 308
 [^3]: no. 48297/99, § 49, ECHR 2002-II (extracts)
-[^4]: _(no. 2)_ (no. 25337/94, § 73, 17&nbsp;July 2003)
-[^5]: _Jersild v. Denmark_, 23&nbsp;September 1994, § 31, Series A&nbsp;no. 298
+[^4]: _(no. 2)_(no. 25337/94, § 73, 17 July 2003)
+[^5]: _Jersild v. Denmark_, 23&nbsp;September 1994, § 31, Series A no. 298
 [^6]: no. 26238/10, 11&nbsp;December 2018.,

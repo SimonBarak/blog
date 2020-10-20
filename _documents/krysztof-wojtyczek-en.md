@@ -157,7 +157,7 @@ The European Convention on Human Rights (ECHR) protects the freedom of expressio
 
 [^1]: On this notion see for instance: B. Pieroth, B. Schlinck, _Grundrechte, Staatsrecht II_, C.F. Müller, Heidelberg 1995, p. 73-82.
 [^2]: See the ECtHR decision of 24 June 2003, Garaudy v. France, 65831/01.
-[^3]: Compare the decision of 16 November 2004, Norwood<sup>, </sup>v. the United Kingdom, 23131/03.
+[^3]: Compare the decision of 16 November 2004, Norwood, v. the United Kingdom, 23131/03.
 [^4]: See the judgment of 28 November 2017, Merabishvili v. Georgia, 72508/13, par. 264-317.
 [^5]:
     See for instance: A. Bleckmann, _Staatsrecht II - Die Grundrechte_, Carl Heymanns, Köln 1997, p. 323 ff.;
@@ -173,7 +173,7 @@ The European Convention on Human Rights (ECHR) protects the freedom of expressio
 [^12]: Judgment of 17 May 2016, Karácsony and others v. Hungary, 42461/13 and 44357/13.
 [^13]: Judgment of 22 April 2013, Animal Defenders International v. The United Kingdom, 48876/08.
 [^14]: See for instance: N. Emiliou, _The Principle of Proportionality in European Law. A Comparative Study_, Kluwer Law International, London 1996, p. 23-66; A. Bleckamann, op. cit., p. 368-380.
-[^15]: The notion of rationality in law is discussed extensively by J. Wróblewski, _The Judicial Application of Law_, Springer-Science+Bisiness Media, s.l. 1992, p. 209 ff.; upon the articulation between rationality and proportionality see P. Niels, \_Verhältnismässigkeit als Rationalitätskontrolle, \_Mohr Siebeck, Tübingen 2015.
+[^15]: The notion of rationality in law is discussed extensively by J. Wróblewski, _The Judicial Application of Law_, Springer-Science+Bisiness Media, s.l. 1992, p. 209 ff.; upon the articulation between rationality and proportionality see P. Niels, _Verhältnismässigkeit als Rationalitätskontrolle,_ Mohr Siebeck, Tübingen 2015.
 [^16]: See for instance the judgment of 29 October 1992, Open Door and Dublin Well Woman v. Ireland, 14234/88; 14235/88, par. 77,
 [^17]: See for instance the judgment of 18 April 2013, Saint-Paul Luxembourg S.A. v. Luxembourg, 26419/10, par. 44.
 [^18]: See for instance the judgment of 16 July 2009, Feret v. Belgium, 15615/07.
