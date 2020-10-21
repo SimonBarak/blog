@@ -13,4 +13,4 @@ The international conference Fair Trial and the Media took place on&nbsp;28th No
 
 The Prosecutor General's Office put together this e-anthology of&nbsp;particular contributions presented at&nbsp;the conference. We&nbsp;would like to&nbsp;thank all the authors for their participation in&nbsp;the conference, their stimulating speeches and acooperation on&nbsp;the written form of&nbsp;the anthology.
 
-The <a href="">press release</a> gives more details about the conference.
+The <a href="{{site.baseurl}}/documents/tiskova-zprava">press release</a> gives more details about the conference.
