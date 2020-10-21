@@ -43,5 +43,3 @@ Děkuji za&nbsp;pozornost.
 [^3]: Viz například rozsudek z 24. 4. 2008 ve věci [Ismailov a&nbsp;další proti Rusku](https://hudoc.echr.coe.int/eng#22itemid%22:[%22001-86086%22]}), č. 2947/06, §161.
 [^4]: Rozsudek z 22.4. 2010 ve věci [Fatullayev proti Ázerbájdžánu](https://hudoc.echr.coe.int/eng#22itemid%22:[%22001-98401%22]}), 40984/07, §159.
 [^5]: Rozsudek ze dne 30. 4. 2019 ve věci [Maslarova proti Bulharsku](http://hudoc.echr.coe.int/eng?i=001-189590), 26966/10.
-
-https://www.dropbox.com/s/2y967g7ckx8nflk/vk-%202020-10-20%20at%2012.06.32.jpg?dl=0

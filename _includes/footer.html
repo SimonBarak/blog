@@ -1,5 +1,14 @@
 <footer class="bg-black text-center py-48">
-  <p class="text-sm text-gray-800">© 2020 Nejvyšší státní zastupitelství</p>
-  <p class="text-sm text-gray-800">Překlad a redakce: Helena Markusová</p>
-  <p class="text-sm text-gray-800">Grafická úprava: Šimon Bařák</p>
+  <p class="text-sm text-gray-800">
+    {% if page.lang == "en" %}© 2020 Prosecutor General's Office{% else %} ©
+    2020 Nejvyšší státní zastupitelství {% endif %}
+  </p>
+  <p class="text-sm text-gray-800">
+    {% if page.lang == "en" %}Translation and editing: Helena Markusová{% else
+    %} Překlad a redakce: Helena Markusová {% endif %}
+  </p>
+  <p class="text-sm text-gray-800">
+    {% if page.lang == "en" %}Graphic design: Šimon Bařák{% else %} Grafická
+    úprava: Šimon Bařák{% endif %}
+  </p>
 </footer>
