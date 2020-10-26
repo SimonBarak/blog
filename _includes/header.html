@@ -1,29 +1,39 @@
 <header>
   <div class="container max-w-3xl flex px-2 py-6">
-    <div class="flex-grow">
+    <div class="flex-grow flex">
       {% if page.layout != "home" %}
-      <a
-        class="inline-block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300"
-        href="{{site.baseurl}}/{% if page.lang == 'en' %}en{% endif %}"
-      >
-        <?xml version="1.0" ?><!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
-        <svg
-          height="1.5rem"
-          id="Layer_1"
-          style="enable-background: new 0 0 512 512"
-          version="1.1"
-          viewBox="0 0 512 512"
-          width="1.5rem"
-          xml:space="preserve"
-          xmlns="http://www.w3.org/2000/svg"
-          xmlns:xlink="http://www.w3.org/1999/xlink"
+      <div>
+        <a
+          class="mr-4 inline-block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300"
+          href="{{site.baseurl}}/{% if page.lang == 'en' %}en{% endif %}"
         >
-          <polygon
-            points="352,128.4 319.7,96 160,256 160,256 160,256 319.7,416 352,383.6 224.7,256 "
-          />
-        </svg>
-      </a>
+          <?xml version="1.0" ?><!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+          <svg
+            height="1.5rem"
+            id="Layer_1"
+            style="enable-background: new 0 0 512 512"
+            version="1.1"
+            viewBox="0 0 512 512"
+            width="1.5rem"
+            xml:space="preserve"
+            xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+          >
+            <polygon
+              points="352,128.4 319.7,96 160,256 160,256 160,256 319.7,416 352,383.6 224.7,256 "
+            />
+          </svg>
+        </a>
+      </div>
+
       {% endif %}
+      <div>
+        <a
+          href="https://verejnazaloba.cz/"
+          class="inline-block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300"
+          >verejnazaloba.cz</a
+        >
+      </div>
     </div>
     <div>
       {% if page.layout != "home" %}
