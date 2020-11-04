@@ -105,7 +105,7 @@ Dámy a&nbsp;pánové, rád bych ještě jednou poděkoval za&nbsp;příležitos
 
 <!-- Footnotes themselves at&nbsp;the bottom. -->
 
-## Notes
+## Poznámky
 
 [^1]: [search.coe.int](https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=09000016805df617)
 [^2]: _10. února 1995, § 41, Série A č. 308_

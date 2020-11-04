@@ -81,7 +81,7 @@ Dále je dobré myslet na to, že důvěryhodnost poselství se odvíjí od vní
 
 <!-- Footnotes themselves at the bottom. -->
 
-## Notes
+## Poznámky
 
 [^1]: VOLEK, Jaromír a&nbsp;Marína URBÁNIKOVÁ. *Čeští novináři v&nbsp;komparativní perspektivě: hybridní, virtuální a&nbsp;mizející žurnalisté v&nbsp;post-transformační fázi*. Praha: Academia, 2017. Společnost (Academia). ISBN 978-80-200-2699-6.
 [^2]: Ibid.

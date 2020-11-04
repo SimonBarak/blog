@@ -151,7 +151,7 @@ Evropská úmluva o&nbsp;lidských právech (EULP) chrání svobodu slova, ale z
 
 <!-- Footnotes themselves at the bottom. -->
 
-## Notes
+## Poznámky
 
 [^1]: Zde viz např.: B. Pieroth, B. Schlinck, _Grundrechte, Staatsrecht II_, C.F. Müller, Heidelberg 1995, str. 73-82.
 [^2]: Viz rozhodnutí ESLP z 24. června 2003, Garaudy v. France, 65831/01.

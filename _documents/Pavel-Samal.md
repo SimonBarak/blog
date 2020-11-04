@@ -36,7 +36,7 @@ Děkuji za&nbsp;pozornost.
 
 <!-- Footnotes themselves at&nbsp;the bottom. -->
 
-## Notes
+## Poznámky
 
 [^1]: Viz například rozsudek ze&nbsp;dne 10. 02. 1995 ve&nbsp;věci [Allenet de&nbsp;Ribemont proti Francii](https://hudoc.echr.coe.int/eng#22itemid%22:[%22001-57914%22]}), 15175/89, §§35-36.
 [^2]: Viz například rozsudek z 27. 2. 2007 ve&nbsp;věci [Nešťák proti Slovensku](https://hudoc.echr.coe.int/eng#22itemid%22:[%22001-79608%22]}), 65559/01, §89.
