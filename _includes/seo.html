@@ -1,16 +1,9 @@
 <meta property="og:locale" content="en_En" />
 <meta property="og:type" content="article" />
-<meta
-  property="og:title"
-  content="{% if page.title %}{{ page.title }}{% else %}{{
-    site.title
-  }}{% endif %}"
-/>
+<meta property="og:title" content="{{ site.title }} / {{ site.title-en }}" />
 <meta
   property="og:description"
-  content="{% if page.description %}{{ page.description }}{% else %}{{
-    site.description
-  }}{% endif %}"
+  content="{{ site.description-en }} / {{ site.description }}"
 />
 <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 <meta property="og:site_name" content="{{ site.title }}" />
@@ -19,28 +12,17 @@
   content="https://res.cloudinary.com/dhxmg9p4i/image/upload/c_thumb,h_300,w_500{{page.thumb}}"
 />
 
-<meta name="twitter:site" content="verejnazaloba.cz" />
+<meta data-rh="true" property="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@NSZ_info" />
+<meta name="twitter:creator" content="@NSZ_info" />
+<meta data-rh="true" property="twitter:title" content="{{ site.title }}" />
 <meta
-  name="twitter:image"
-  content="https://res.cloudinary.com/dhxmg9p4i/image/upload/c_thumb,h_300,w_500{{page.thumb}}"
-/>
-<meta
-  data-rh="true"
-  property="twitter:title"
-  content="{% if page.title %}{{ page.title }}{% else
-    %}{{ site.title }}{% endif %}"
-/><meta
   data-rh="true"
   property="twitter:description"
-  content="{% if page.description %}{{
-page.description }}{% else %}{{ site.description }}{% endif %}"
-/><meta
+  content="{{ site.description-en }} / {{ site.description }}"
+/>
+<meta
   name="twitter:image"
   content="https://res.cloudinary.com/dhxmg9p4i/image/upload/c_thumb,h_300,w_500{{page.thumb}}"
-/><meta
-  data-rh="true"
-  property="twitter:image:alt"
-  content="{% if page.description %}{{
-    page.description }}{% else %}{{ site.description }}{% endif %}"
 />
-<meta data-rh="true" property="twitter:card" content="summary_large_image" />

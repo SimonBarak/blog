@@ -20089,7 +20089,7 @@ body {
 .parallax__layer--back {
   -webkit-transform: translateZ(-2px) scale(2);
   transform: translateZ(-2px) scale(2);
-  background-image: url("/blog/assets/img/backgorund.jpg");
+  background-image: url("/assets/img/backgorund.jpg");
   background-size: cover;
 }
 

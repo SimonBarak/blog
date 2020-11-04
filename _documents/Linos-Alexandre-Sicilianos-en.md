@@ -17,7 +17,7 @@ Distinguished speakers and&nbsp;guests,<br/>
 
 It&nbsp;is a&nbsp;great pleasure for me&nbsp;to open this conference on&nbsp;media and fair trial guarantees. On&nbsp;behalf of&nbsp;myself and my&nbsp;colleagues Judges Wojtyczek and Pejchal, I&nbsp;would like to&nbsp;thank our hosts, and in&nbsp;particular Prosecutor General Zeman, for the kind invitation to&nbsp;join you in&nbsp;Prague.
 
-![Linos-Alexandre Sicilianos](/blog/assets/img/sicilianos-1.jpg)
+![Linos-Alexandre Sicilianos]({{site.baseurl}}/assets/img/sicilianos-1.jpg)
 
 You have chosen an&nbsp;extremely interesting topic for today’s discussions, namely the interrelationship between fair trial guarantees and the media.
 

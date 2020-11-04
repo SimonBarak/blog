@@ -5,15 +5,15 @@ title: Mezinárodní konference NSZ se zaměřila na vztah justice a&nbsp;médi�
 weight: 200
 thumb: /v1603199935/nsz/embed-tiskova-zprava.jpg
 author:
-  name: Tisková zpráva
-  position:
+  name:
+  position: Tisková zpráva
 ---
 
 # Mezinárodní konference NSZ se zaměřila na vztah justice a&nbsp;médií
 
 Praha 28. listopadu 2019 – Lze najít rovnováhu mezi ochranou soukromí a&nbsp;právem informovat veřejnost? Je vůbec možné v&nbsp;éře médií ochránit práva všech aktérů trestního řízení? Který veřejný zájem má převážit? Na tyto a&nbsp;další ožehavé otázky upozornila mezinárodní konference „Spravedlivý proces a&nbsp;mediální realita“, kterou uspořádalo Nejvyšší státní zastupitelství ve spolupráci s&nbsp;Evropským soudem pro lidská práva ve čtvrtek 28. listopadu 2019 v&nbsp;prostorách Strahovského kláštera v&nbsp;Praze.
 
-![Foto z konference](/blog/assets/img/tiskova-zprava.jpg)
+![Foto z konference]({{site.baseurl}}/assets/img/fotky-z-konference.jpg)
 
 Cílem konference bylo upozornit na otázku dodržování principů „fair trial“ v&nbsp;době enormní a&nbsp;všudypřítomné mediální pozornosti. Nejvyšší státní zástupce Pavel Zeman ve svém úvodním vystoupení připomněl třicáté výročí sametové revoluce: „Je bezesporu dobře, že jak média, tak veřejná žaloba se staly sebevědomými hráči v&nbsp;rámci našeho demokratického vývoje. Pokud však chceme demokracii, kterou jsme před 30 lety znovu získali, udržet a&nbsp;kultivovat, a&nbsp;pokud chceme udržet a&nbsp;rozvíjet právní stát, musíme si být vědomi toho, že každá hra má svoje pravidla.“
 

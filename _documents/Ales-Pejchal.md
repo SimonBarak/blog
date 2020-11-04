@@ -13,7 +13,7 @@ Dámy a&nbsp;pánové,
 
 Je&nbsp;pro mne nesmírnou ctí přispět k&nbsp;zajímavé diskuzi o&nbsp;svobodě projevu a&nbsp;ochraně soukromí právě na&nbsp;tomto nádherném místě před tímto forem. Když jsem o&nbsp;svém příspěvku přemýšlel, dospěl jsem k&nbsp;závěru, že&nbsp;musí být jak právnický, tak žurnalistický. Je&nbsp;na vás, abyste zhodnotili, zda se&nbsp;mi to&nbsp;podaří.
 
-![Aleš Pejchal](/blog/assets/img/pejchal.jpg)
+![Aleš Pejchal]({{site.baseurl}}/assets/img/pejchal.jpg)
 
 Budu vyprávět příběh jednoho velmi úspěšného ministerského předsedy a&nbsp;také dvou novinářů a&nbsp;rovněž členů tribunálu zřízeného parlamentem, ale především lidské komunity. Ta&nbsp;je totiž v&nbsp;případech týkajících se&nbsp;ochrany svobody projevu zcela nejdůležitější. Na&nbsp;pustém ostrově může jeho jediný obyvatel vykřikovat cokoli a&nbsp;žádnou ochranu nepotřebuje. Jednak tu&nbsp;není nikdo, kdo by&nbsp;ho chránil, ale také nikdo, kdo by&nbsp;mu naslouchal a&nbsp;mohl se&nbsp;eventuálně cítit pobouřen jeho výroky.
 

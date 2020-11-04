@@ -13,7 +13,7 @@ Ladies and Gentlemen,
 
 I&nbsp;am greatly honored to&nbsp;contribute to&nbsp;an interesting discussion about freedom of&nbsp;speech and protection of&nbsp;privacy before this forum in&nbsp;this beautiful place. When I&nbsp;was thinking about my&nbsp;presentation, I&nbsp;came to&nbsp;the conclusion that it&nbsp;must be&nbsp;both legal and journalistic. It&nbsp;is up&nbsp;to you to&nbsp;assess to&nbsp;what extent I&nbsp;was successful.
 
-![Aleš Pejchal](/blog/assets/img/pejchal.jpg)
+![Aleš Pejchal]({{site.baseurl}}/assets/img/pejchal.jpg)
 
 I&nbsp;will tell you a&nbsp;story about a&nbsp;very successful prime minister and also two journalists and members of&nbsp;a&nbsp;tribunal established by&nbsp;parliament, but first and foremost, members of&nbsp;human community. Because human community is&nbsp;most important in&nbsp;cases concerning the protection of&nbsp;freedom of&nbsp;speech. On&nbsp;a&nbsp;deserted island its one and only citizen can shout whatever he&nbsp;wants, and he&nbsp;needs no&nbsp;protection. There is&nbsp;nobody who would protect him and nobody who would listen to&nbsp;him and could possibly feel outraged by&nbsp;his words.
 

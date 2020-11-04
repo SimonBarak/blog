@@ -18,7 +18,7 @@ Dear Colleagues, Ladies and Gentlemen,<br/>
 
 It is my pleasure to welcome you and many other esteemed guests – representatives of justice, public administration, academia, and the media to this conference organized jointly by the European Court for Human Rights and the Supreme Public Prosecutor’s Office on the theme: “Fair Trial and the Media”.
 
-![Pavel Zeman](/blog/assets/img/zeman.jpg)
+![Pavel Zeman]({{site.baseurl}}/assets/img/zeman.jpg)
 
 The Czech and Slovak Federative Republic acceded to the Convention on the Protection of Human Rights and Fundamental Freedoms on 21 February,1991, and the document came into effect on 18 March,1992. However, I would like to go several years back. Although it was not announced earlier, this conference is held to also mark the 30th anniversary of the November 1989 events. Frankly speaking, if it were not for the November 1989 events, we would have no freedom of speech, no public prosecution, and probably we would not be the signatories of the Convention on the Protection of Human Rights and Fundamental Freedoms, and we would see the European Court for Human Rights as something exotic and out of reach.
 
