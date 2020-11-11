@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Sborník mezinárodní konference spravedlivý proces s mediální realita
 description-en: >- # this means to ignore newlines until "baseurl:"
   Transcript of the international conference Fair Trial and Media Reality
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://simonbarak.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 imgurl: /assets/img
@@ -33,10 +33,7 @@ imgurl: /assets/img
 langs:
   - shortcut: en
   - shortcut: cz
-
-plugins:
-  - jekyll-feed
-
+  
 collections:
   documents:
     output: true

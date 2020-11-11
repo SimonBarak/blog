@@ -4,7 +4,21 @@
 
 @tailwind utilities;
 
-@import "./css/fonts.css";
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./Roboto-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url("./Roboto-Thin.ttf") format("ttf");
+}
 
 body {
   background-color: rgb(30, 0, 40);
@@ -43,7 +57,7 @@ body {
 .parallax__layer--back {
   -webkit-transform: translateZ(-2px) scale(2);
   transform: translateZ(-2px) scale(2);
-  background-image: url("/assets/img/backgorund.jpg");
+  background-image: url("./backgorund.jpg");
   background-size: cover;
 }
 
