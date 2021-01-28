@@ -57,8 +57,16 @@ body {
 .parallax__layer--back {
   -webkit-transform: translateZ(-2px) scale(2);
   transform: translateZ(-2px) scale(2);
-  background-image: url("https://res.cloudinary.com/dhxmg9p4i/image/upload/v1611859613/blog/pozadi.jpg");
+  background-image: url("https://res.cloudinary.com/dhxmg9p4i/image/upload/v1611864060/blog/pozadi6.jpg");
   background-size: cover;
+}
+
+.linkbox {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.linkbox:hover {
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 /* p,

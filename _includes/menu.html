@@ -1,4 +1,4 @@
-<div class="text-white mb-2">{{page.speeches}}</div>
+<div class="text-white mb-2 md:text-xl text-right">{{page.speeches}}</div>
 {% assign documents=site.documents | where:"lang", page.lang %} {% assign
 sorteddocuments = documents | sort: 'weight' %}
 <ul>
@@ -6,13 +6,21 @@ sorteddocuments = documents | sort: 'weight' %}
   <li>
     <a
       href="{{site.baseurl}}{{ document.url }}"
-      class="bg-gray-900 hover:bg-gray-700 {% if page.weight == document.weight %} bg-gray-800 {% endif %} block flex rounded-lg shadow mb-2 px-4 py-5"
+      class="linkbox {% if page.weight == document.weight %} bg-gray-800 {% endif %} block flex rounded-lg shadow mb-2 px-4 py-5"
     >
       <div class="flex-grow">
-        <div class="text-white text-2xl">{{ document.author.name }}</div>
-        <div class="text-gray-600">{{ document.author.position }}</div>
+        <div class="pl-5 md:text-xl">
+          <ul class="list-disc text-white">
+            <li>{{ document.author.position }}</li>
+          </ul>
+        </div>
+        <div>
+          <h1 class="text-white text-3xl md:text-5xl font-thin">
+            {{ document.author.name }}
+          </h1>
+        </div>
       </div>
-      <div class="flex px-2">
+      <!-- <div class="flex px-2">
         <?xml version="1.0" ?><!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
         <svg
           class="self-center"
@@ -33,7 +41,7 @@ sorteddocuments = documents | sort: 'weight' %}
             />
           </g>
         </svg>
-      </div>
+      </div> -->
     </a>
   </li>
   {% endfor %}
