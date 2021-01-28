@@ -1,15 +1,15 @@
-<div class="mb-2 text-white">{{page.speeches}}</div>
+<div class="text-white mb-2">{{page.speeches}}</div>
 {% assign documents=site.documents | where:"lang", page.lang %} {% assign
 sorteddocuments = documents | sort: 'weight' %}
 <ul>
-  {% for document in sorteddocuments %} 
+  {% for document in sorteddocuments %}
   <li>
     <a
       href="{{site.baseurl}}{{ document.url }}"
-      class="bg-white  {% if page.weight == document.weight %}bg-gray-500{% endif %}  block flex rounded shadow mb-3 px-3 py-3 hover:bg-gray-300"
+      class="bg-gray-900 hover:bg-gray-700 {% if page.weight == document.weight %} bg-gray-800 {% endif %} block flex rounded-lg shadow mb-2 px-4 py-5"
     >
       <div class="flex-grow">
-        <div class="text-2xl">{{ document.author.name }}</div>
+        <div class="text-white text-2xl">{{ document.author.name }}</div>
         <div class="text-gray-600">{{ document.author.position }}</div>
       </div>
       <div class="flex px-2">

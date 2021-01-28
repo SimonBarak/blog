@@ -17,7 +17,7 @@ ctění přednášející a&nbsp;hosté,<br/>
 
 je&nbsp;pro mě velkým potěšením, že mohu zahájit tuto konferenci o&nbsp;zárukách spravedlivého procesu a&nbsp;médiích. Jménem svým a&nbsp;mých kolegů soudců Wojtyczeka a&nbsp;Pejchala bych rád poděkoval našim hostitelům, především nejvyššímu státnímu zástupci Zemanovi, za&nbsp;laskavé pozvání k setkání v Praze.
 
-![Linos-Alexandre Sicilianos]({{site.baseurl}}/assets/img/sicilianos-1.jpg)
+![Linos-Alexandre Sicilianos]({{site.baseurl}}/dist/img/sicilianos-1.jpg)
 
 Vybrali jste neobyčejně zajímavé téma pro&nbsp;dnešní diskusi, tedy vztah mezi zárukami spravedlivého procesu a&nbsp;médii.
 
@@ -91,7 +91,7 @@ Pokud se&nbsp;týká práv soudkyně podle článku 8, Soud rovněž nebyl přes
 
 Jaké závěry o&nbsp;zárukách spravedlivého procesu a&nbsp;médiích bychom tedy mohli učinit? Já bych rád učinil tři.
 
-Za&nbsp;prvé, práce soudů je&nbsp;předmětem neustálé veřejné debaty, která je&nbsp;živena skutečností, že žijeme ve&nbsp;světě komunikace prostřednictvím sociálních médií a&nbsp;sofistikovanějším mediálním zpravodajstvím. Veřejnost má také oprávněný zájem být informována o&nbsp;probíhajícím trestním řízení a&nbsp;fungování justice.
+Za&nbsp;prvé, práce soudů je&nbsp;předmětem neustálé veřejné debaty, která je&nbsp;živena skutečností, že žijeme ve&nbsp;světě komunikace prostřednictvím sociálních médií a&nbsp;sofistikovanějšího mediálního zpravodajství. Veřejnost má také oprávněný zájem být informována o&nbsp;probíhajícím trestním řízení a&nbsp;fungování justice.
 
 Za&nbsp;druhé, veřejní činitelé mohou hovořit o&nbsp;probíhajícím trestním řízení, ale&nbsp;jejich výběr slov je&nbsp;důležitý, musí tak&nbsp;činit se&nbsp;zdrženlivostí a&nbsp;rozvážností.
 

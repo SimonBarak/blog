@@ -11,7 +11,7 @@ author:
 
 Evropská úmluva o&nbsp;lidských právech (EULP) chrání svobodu slova, ale zároveň připouští omezení této svobody při splnění určitých kritérií. Nastoluje otázku přesných kritérií, která určují rozsah přípustných omezení. Tato prezentace má za cíl stručně představit judikaturu Evropského soudu pro lidská práva (ESLP, dále také Soud) týkající se limitů omezení (německy: _Schranken-Schranken_[^1]) svobody slova.
 
-![Krzysztof Wojtyczek]({{site.baseurl}}/assets/img/wojtyczek.jpg)
+![Krzysztof Wojtyczek]({{site.baseurl}}/dist/img/wojtyczek.jpg)
 
 1. Za prvé je třeba říci, že nejdůležitější limity omezení svobody slova jsou uvedeny v článku 10 Úmluvy. Avšak toto ustanovení se musí včlenit do širšího kontextu jiných ustanovení, která definují limity omezení práv.
 

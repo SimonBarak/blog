@@ -19,7 +19,7 @@ Kolegyně a&nbsp;kolegové,
 
 rád bych úvodem pozdravil všechny přítomné. Nejen jménem svým, ale&nbsp;i jménem Ústavního soudu. Chci poděkovat za&nbsp;pozvání a&nbsp;za možnost promluvit v&nbsp;úvodu této významné mezinárodní konference. Zamýšlel jsem se&nbsp;proto celý uplynulý víkend nad tím, jak spolu korespondují spravedlivý proces a&nbsp;mediální realita. A&nbsp;musím upřímně říci, že uspokojivou odpověď jsem nenašel.
 
-![Pavel Rychetsky]({{site.baseurl}}/assets/img/rychetsky.jpg)
+![Pavel Rychetsky]({{site.baseurl}}/dist/img/rychetsky.jpg)
 
 Snad je&nbsp;to tím, že žijeme v&nbsp;době informační inflace či obezity.
 
@@ -27,7 +27,7 @@ Jsem příslušníkem generace, která získávala informace o&nbsp;světě hlav
 
 Zmínil jsem se&nbsp;o informační obezitě, která je&nbsp;pravým opakem předchozí komunistické informační diety. Informace jsou dnes všude. Vyskakují nám z&nbsp;mobilů, monitorů, videí; jsou pro nás filtrovány, tříděny, personalizovány a&nbsp;je jich tolik, že je&nbsp;přestáváme vnímat. S&nbsp;nástupem internetu a&nbsp;jeho zpravodajstvích platforem se&nbsp;začala tradiční žurnalistika rozmělňovat. S&nbsp;ní se&nbsp;ale rozplývá také základní odlišení mediálních informací - odlišení toho, co&nbsp;je zpravodajství a&nbsp;co je&nbsp;publicistika. A&nbsp;tak se&nbsp;informace míchá s&nbsp;názorem, přesvědčení s&nbsp;rozhořčením a&nbsp;fakty s&nbsp;pocity. O&nbsp;notný kus dál postoupila blogerská a&nbsp;komentátorská část informačního spektra, která si&nbsp;z větší části s&nbsp;fakty nedělá starosti vůbec.
 
-Zygmunt Bauman napsal před dvanácti lety knihu o&nbsp;„tekutých časech“, která je&nbsp;mimořádnou reflexí naší modernity. Tato tekutost se&nbsp;přelévá i&nbsp;do modernity mediální, která musí být hlavně barevná, stručná, s&nbsp;chytlavým titulkem a&nbsp;ihned dostupná. Proto se&nbsp;ptám, a&nbsp;jistě nejsem na&nbsp;této konferenci jediný, jak do&nbsp;této zkratky vměstnat tak složitý konstrukt, jako je&nbsp;právo na&nbsp;spravedlivý proces? A&nbsp;položím si&nbsp;i druhou, trochu kacířskou otázku: stojí o&nbsp;to vůbec konzument informací?
+Zygmunt Bauman napsal před dvanácti lety knihu o&nbsp;„tekutých časech “, která je&nbsp;mimořádnou reflexí naší modernity. Tato tekutost se&nbsp;přelévá i&nbsp;do modernity mediální, která musí být hlavně barevná, stručná, s&nbsp;chytlavým titulkem a&nbsp;ihned dostupná. Proto se&nbsp;ptám, a&nbsp;jistě nejsem na&nbsp;této konferenci jediný, jak do&nbsp;této zkratky vměstnat tak složitý konstrukt, jako je&nbsp;právo na&nbsp;spravedlivý proces? A&nbsp;položím si&nbsp;i druhou, trochu kacířskou otázku: stojí o&nbsp;to vůbec konzument informací?
 
 Chtěl bych zde načrtnout několik postřehů z&nbsp;praxe Ústavního soudu. Snad budou mít vypovídací hodnotu.
 

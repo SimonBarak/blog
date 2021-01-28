@@ -1,10 +1,10 @@
 <header>
-  <div class="container max-w-3xl flex px-2 py-6">
+  <div class="container max-w-3xl flex px-2 py-6 text-white">
     <div class="flex-grow flex">
       {% if page.layout != "home" %}
       <div>
         <a
-          class="mr-4 inline-block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300"
+          class="mr-4 inline-block py-2 px-3 rounded-lg shadow uppercase bg-gray-900 hover:bg-gray-800"
           href="{{site.baseurl}}/{% if page.lang == 'en' %}en{% endif %}"
         >
           <?xml version="1.0" ?><!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
@@ -15,6 +15,7 @@
             version="1.1"
             viewBox="0 0 512 512"
             width="1.5rem"
+            fill="white"
             xml:space="preserve"
             xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,24 +28,24 @@
       </div>
 
       {% endif %}
-      <div>
+      <!-- <div>
         <a
           href="https://verejnazaloba.cz/"
-          class="inline-block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300"
+          class="inline-block py-2 px-3 rounded-lg shadow uppercase bg-gray-900 hover:bg-gray-800"
           >verejnazaloba.cz</a
         >
-      </div>
+      </div> -->
     </div>
     <div>
-      {% if page.layout != "home" %}
+      <!-- {% if page.layout != "home" %}
       <button
-        class="block py-2 px-3 mr-2 rounded-lg shadow uppercase bg-white hover:bg-gray-300"
+        class="block py-2 px-3 mr-2 rounded-lg shadow uppercase bg-gray-900 hover:bg-gray-800"
         onclick="window.print()"
       >
         {% if page.lang == 'en' %} Print {% endif %} {% if page.lang == 'cz' %}
         Tisknout {% endif %}
       </button>
-      {% endif %}
+      {% endif %} -->
     </div>
     <div>
       {% if page.layout != "home" %}
@@ -54,7 +55,7 @@
         <li class="block ml-2">
           <a
             href="{{site.baseurl}}{{ document.url }}"
-            class="block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300 {% if page.lang == document.lang %} bg-gray-400 {% endif %}"
+            class="block py-2 px-3 rounded-lg shadow uppercase bg-gray-900 hover:bg-gray-800 {% if page.lang == document.lang %} bg-gray-400 {% endif %}"
             >{{ document.lang }}</a
           >
         </li>
@@ -65,14 +66,14 @@
         <li class="block ml-2">
           <a
             href="{{site.baseurl}}/"
-            class="block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300 {% if page.lang == 'cz' %} bg-gray-400 {% endif %}"
+            class="block py-2 px-3 rounded-lg shadow uppercase bg-gray-900 hover:bg-gray-800 {% if page.lang == 'cz' %} bg-gray-400 {% endif %}"
             >cz</a
           >
         </li>
         <li class="block ml-2">
           <a
             href="{{site.baseurl}}/en"
-            class="block py-2 px-3 rounded-lg shadow uppercase bg-white hover:bg-gray-300 {% if page.lang == 'en' %} bg-gray-400 {% endif %}"
+            class="block py-2 px-3 rounded-lg shadow uppercase bg-gray-900 hover:bg-gray-800 {% if page.lang == 'en' %} bg-gray-400 {% endif %}"
             >en</a
           >
         </li>

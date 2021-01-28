@@ -19,21 +19,21 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Spravedlivý proces s mediální realita
-title-en: Fair Trial and Media Reality
-email: your-email@example.com
+title-en: Fair Trial and the Media
+email: simon@loners.company
 description: >- # this means to ignore newlines until "baseurl:"
   Sborník mezinárodní konference spravedlivý proces s mediální realita
 description-en: >- # this means to ignore newlines until "baseurl:"
-  Transcript of the international conference Fair Trial and Media Reality
+  Transcript of the international conference Fair Trial and the Media
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://simonbarak.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://simonbarak.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 
-imgurl: /assets/img
+imgurl: /dist/img
 
 langs:
   - shortcut: en
   - shortcut: cz
-  
+
 collections:
   documents:
     output: true

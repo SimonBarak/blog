@@ -6,10 +6,10 @@ weight: 20
 thumb: /v1602140542/nsz/embed-rychetsky.jpg
 author:
   name: Pavel Rychetský
-  position: Chairman of&nbsp;the Constitutional Court of&nbsp;the Czech Republic
+  position: President of&nbsp;the Constitutional Court of&nbsp;the Czech Republic
 ---
 
-Dear Chairman of&nbsp;the European Court for Human Rights,<br/>
+Dear President of&nbsp;the European Court of Human Rights,<br/>
 Dear Minister,<br/>
 Your Eminence, Cardinal Duka,<br/>
 Dear General Attorney,<br/>
@@ -17,9 +17,9 @@ Dear Chairmen of&nbsp;both Supreme Courts,<br/>
 Ladies and Gentlemen,<br/>
 Dear Colleagues,<br/>
 
-On&nbsp;behalf of&nbsp;the Constitutional Court I&nbsp;would first like to&nbsp;welcome all participants. I&nbsp;want to&nbsp;thank the organizers for the invitation and for the opportunity to&nbsp;address this important international conference. Over the past weekend, I&nbsp;was thinking about how fair trial and the media correspond with each other. And I&nbsp;must be&nbsp;frank to&nbsp;say that I&nbsp;have not found any satisfactory answer.
+On&nbsp;behalf of&nbsp;the Constitutional Court I&nbsp;would first like to&nbsp;welcome all participants. I&nbsp;want to&nbsp;thank the organizers for the invitation and for the opportunity to&nbsp;address this important international conference. Over the past weekend, I&nbsp;was thinking about how fair trial and the media correlate with each other. And I&nbsp;must be&nbsp;frank to&nbsp;say that I&nbsp;have not found any satisfactory answer.
 
-![Pavel Rychetsky]({{site.baseurl}}/assets/img/rychetsky.jpg)
+![Pavel Rychetsky]({{site.baseurl}}/dist/img/rychetsky.jpg)
 
 The reason may be&nbsp;that we&nbsp;live in&nbsp;times of&nbsp;information inflation or&nbsp;obesity.
 
@@ -27,7 +27,7 @@ My&nbsp;generation used to&nbsp;get information about the world mainly from news
 
 I&nbsp;mentioned “information obesity” which is&nbsp;just the opposite to&nbsp;the former communist “information diet”. Today, information is&nbsp;everywhere: in&nbsp;cellphones, on&nbsp;monitors, videos; it&nbsp;is filtered, personalized, there is&nbsp;so much of&nbsp;it that we&nbsp;are no&nbsp;longer able to&nbsp;absorb it. With the onset of&nbsp;the Internet and its news platforms the traditional journalism started to&nbsp;be fragmented. This fragmentation also concerns media information – a&nbsp;distinction between reporting and commentaries fades away. And so, information mixes up&nbsp;with opinion, conviction with indignation, and facts with sentiments. Bloggers and commentators mostly do&nbsp;not care about facts at&nbsp;all.
 
-Zygmunt Bauman wrote a&nbsp;book twelve years ago on&nbsp;“liquid modernity” which is&nbsp;an outstanding reflection on&nbsp;our modernity. This liquidity moves to&nbsp;media modernity which must be&nbsp;mainly colorful, brief, with catchy headlines, and immediately accessible. I&nbsp;ask therefore, and I&nbsp;am sure I&nbsp;am not alone here, how can we&nbsp;insert such a&nbsp;complex construct of&nbsp;the right to&nbsp;a fair trial in&nbsp;this condensed form? And I&nbsp;will pose a&nbsp;second, perhaps heretical, question: Does the information consumer care at&nbsp;all?
+Zygmunt Bauman wrote a&nbsp;book twelve years ago on&nbsp;“liquid modernity” which is&nbsp;an outstanding reflection on&nbsp;our modernity. This liquidity moves to&nbsp;media modernity which must be&nbsp;mainly colorful, brief, with catchy headlines, and immediately accessible. I&nbsp;ask therefore, and I&nbsp;am sure I&nbsp;am not alone here, how can we&nbsp;insert such a&nbsp;complex construct of&nbsp;the right to&nbsp;a fair trial in&nbsp;this condensed form? And I&nbsp;will pose a&nbsp;second, perhaps heretical, question: Does the consumer of information care at&nbsp;all?
 
 I&nbsp;would like to&nbsp;outline several observations from the Constitutional Court practice. I&nbsp;hope they will be&nbsp;informative and to&nbsp;the point.
 
