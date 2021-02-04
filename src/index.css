@@ -7,6 +7,14 @@
 @font-face {
   font-family: "Roboto";
   font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./Roboto-Bold.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: url("./Roboto-Regular.ttf") format("ttf");
@@ -62,11 +70,11 @@ body {
 }
 
 .linkbox {
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .linkbox:hover {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(37, 171, 255, 0.5);
 }
 
 /* p,

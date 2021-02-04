@@ -1924,6 +1924,10 @@ video {
   font-weight: 200;
 }
 
+.font-bold {
+  font-weight: 700;
+}
+
 .text-sm {
   font-size: 0.875rem;
 }
@@ -2112,6 +2116,18 @@ video {
 
   font-style: normal;
 
+  font-weight: 700;
+
+  font-display: swap;
+
+  src: url(4f39c5796e60c9d8e7327a00e9a4442e.ttf) format("ttf");
+}
+
+@font-face {
+  font-family: "Roboto";
+
+  font-style: normal;
+
   font-weight: 400;
 
   font-display: swap;
@@ -2176,11 +2192,11 @@ body {
 }
 
 .linkbox {
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .linkbox:hover {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(37, 171, 255, 0.5);
 }
 
 /* p,
@@ -4750,6 +4766,10 @@ article ol {
 
   .md\:text-5xl {
     font-size: 3rem;
+  }
+
+  .md\:text-6xl {
+    font-size: 4rem;
   }
 
   .md\:p-10 {
