@@ -67,6 +67,7 @@ body {
   transform: translateZ(-2px) scale(2);
   background-image: url("https://res.cloudinary.com/dhxmg9p4i/image/upload/v1611870110/blog/pozadi7.jpg");
   background-size: cover;
+  opacity: 0.8;
 }
 
 .linkbox {
